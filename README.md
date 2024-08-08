@@ -7,7 +7,7 @@
 
 <h3 align="left">About me </h3>
 
-- 🔭 I'm currently working on Embedded systems and  C++ sofware development 
+- 🔭 I'm currently working on Embedded systems and  C++ software development 
   
 - 🌱 I'm currently learning about AI applications in Real Life Scenarios, C++ development techniques and reading Programming Textbooks
   
