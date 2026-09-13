@@ -21,8 +21,6 @@
   <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
   <img src="https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5"/>
   <img src="https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3"/>
-  <img src="https://img.shields.io/badge/-Rust-black?style=flat-square&logo=rust"/>
-  <img src="https://img.shields.io/badge/-VHDL-black?style=flat-square&logo=vhdl"/>
 </p>
 
 <h3 align="left">Tools: </h3>
