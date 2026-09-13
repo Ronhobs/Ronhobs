@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ronald: A Test Engineer</h1>
-<h3 align="center">I am a Software engineer with experience in Embedded Systems & Software Development</h3>
+<h3 align="center">I am a Hardware engineer with experience in Transceivers & Software Development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ronhobs&label=Profile%20views&color=0e75b6&style=flat" alt="ronhobs" /> </p>
 
@@ -7,11 +7,11 @@
 
 <h3 align="left">About me </h3>
 
-- 🔭 I'm currently working on Embedded systems and  C++ software development 
+- 🔭 I am developing a C# application to calibrate optical transceivers by writing code that controls current delivery to the lasers.
   
-- 🌱 I'm currently learning about AI applications in Real Life Scenarios, C++ development techniques and reading Programming Textbooks
+- 🌱 I'm currently  playing Call of Duty: Black Ops Cold War and working on using AI agents to make my life easier.
   
-- ⚡ Fun fact: I believe in hardwork so much. What seperates good people from great people is HARD WORK.
+- ⚡ Fun fact: I am the most unserious person in this planet.
 
 <h3 align="left">Languages: </h3>
 <p align="left"> 
