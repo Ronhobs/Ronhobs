@@ -16,7 +16,7 @@
 <h3 align="left">Languages: </h3>
 <p align="left"> 
   <img src="https://img.shields.io/badge/-C-black?style=flat-square&logo=c"/>
-  ![C#](https://shields.io)
+  <img src="https://shields.io"/>
   <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=python"/>
   <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
   <img src="https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5"/>
